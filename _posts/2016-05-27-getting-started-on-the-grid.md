@@ -6,18 +6,20 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. '
-datePublished: '2016-05-27T09:40:16.951Z'
-dateModified: '2016-05-26T16:18:01.026Z'
+datePublished: '2016-05-27T19:21:26.970Z'
+dateModified: '2016-05-27T19:20:40.795Z'
 title: Getting Started on The Grid
 author: []
+sourcePath: _posts/2016-05-27-getting-started-on-the-grid.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-27-getting-started-on-the-grid.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f565b8f-7e54-4a58-ab93-0ab2a55e1b2c.gif)
+
 # Getting Started on The Grid
 
 Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
